@@ -1,0 +1,38 @@
+{
+  "name": "plume-n-otes",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "基于Plume主题搭建的知识博客",
+  "packageManager": "pnpm@9.14.4",
+  "author": "Lewis798 <QA2160073500@outlook.com>",
+  "license": "MIT",
+  "engines": {
+    "node": "^18.20.0 || >=20.0.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:dev-clean": "vuepress dev docs --clean-cache --clean-temp",
+    "docs:build": "vuepress build docs --clean-cache --clean-temp",
+    "docs:preview": "http-server docs/.vuepress/dist",
+    "vp-update": "pnpm dlx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.18",
+    "http-server": "^14.1.1",
+    "sass-embedded": "^1.80.6",
+    "typescript": "^5.6.3",
+    "vue": "^3.5.13",
+    "vuepress": "2.0.0-rc.18",
+    "vuepress-plugin-md-enhance": "2.0.0-rc.60",
+    "vuepress-theme-plume": "1.0.0-rc.119"
+  },
+  "dependencies": {
+    "@iconify/json": "^2.2.280",
+    "@waline/client": "^3.4.1",
+    "chart.js": "^4.4.7",
+    "echarts": "^5.5.1",
+    "flowchart.ts": "^3.0.1",
+    "mermaid": "^11.4.1",
+    "vuepress-plugin-md-power": "1.0.0-rc.119"
+  }
+}
