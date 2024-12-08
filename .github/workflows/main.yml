@@ -47,4 +47,4 @@ jobs:
           chmod 600 ~/.ssh/id_rsa
           ssh-keyscan $SSH_HOST >> ~/.ssh/known_hosts
           #scp -r ./docs/.vuepress/dist/* $SSH_USERNAME@$SSH_HOST:$REMOTE_PATH
-          sshpass -p $SSH_PASSWORD scp -r ./dev-ops/Plume/nginx/html/* root@$SSH_HOST:$REMOTE_PATH
+          sshpass -p $SSH_PASSWORD scp -r ./dev-ops/nginx/html/* root@$SSH_HOST:$REMOTE_PATH
