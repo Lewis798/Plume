@@ -1,5 +1,5 @@
 ---
-title: Notice
+title: 注意：本网站部署在 Github Pages 上，请科学上网！
 createTime: 2024/12/07 23:44:28
 permalink: /article/e5enzmp0/
 ---
