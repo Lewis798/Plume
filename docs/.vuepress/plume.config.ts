@@ -8,7 +8,7 @@ import { notes } from './notes'
 export default defineThemeConfig({
   logo:'/icon/wave+.png',
   // your git repo url
-  docsRepo: '',
+  docsRepo: 'Lewis798/Plume',
   docsDir: 'docs',
   
   appearance: true,

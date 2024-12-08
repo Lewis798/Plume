@@ -3,6 +3,7 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
+  dest: "./dev-ops/nginx/html",
   base: '/',
   lang: 'zh-CN',
   title: 'Plume Notes',
@@ -17,7 +18,7 @@ export default defineUserConfig({
 
   theme: plumeTheme({
     // 添加您的部署域名
-    // hostname: 'https://your_site_url',
+    hostname: 'https://plume.pookie.top',
     copyright: 'CC-BY-NC-SA-4.0',
     footer: { message: 'Plume Notes', copyright: 'Copyright © 2024-present leiws. All rights reserved.' },
     contributors: {
