@@ -118,9 +118,9 @@ export default defineUserConfig({
       * @see https://theme-plume.vuejs.press/guide/features/content-search/
       */
      docsearch: {
-       appId: '1ORX5OLFYY', 
-       apiKey: 'dee5b2eac2e20c3a24a9846dd76c443a', 
-       indexName: 'plume-pookie', 
+       appId: 'R3ZYE0XSDV', 
+       apiKey: 'ae5d16de553a9c067a3ad8f36b32e19d', 
+       indexName: 'plume', 
      },
     },
   }),
