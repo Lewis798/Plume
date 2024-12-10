@@ -116,7 +116,7 @@ export default defineUserConfig({
       */
      docsearch: {
        appId: '1ORX5OLFYY', 
-       apiKey: '685d19d36b82f2575a5bdf0cc826663f', 
+       apiKey: '6aee5b26b6f041116cbe51ab6ed1b119', 
        indexName: 'plume-pookie', 
      },
     },
