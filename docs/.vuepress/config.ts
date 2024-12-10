@@ -108,7 +108,10 @@ export default defineUserConfig({
       //   reactionsEnabled: true,
       //   inputPosition: 'top',
        },
-      
+          /**
+         * 本地搜索 search
+         */
+          search: false,
 
     /**
       * 搜索 Algolia DocSearch
