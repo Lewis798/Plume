@@ -110,15 +110,15 @@ export default defineUserConfig({
        },
       
 
-     /**
-       * 搜索 Algolia DocSearch
-       * @see https://theme-plume.vuejs.press/guide/features/content-search/
-       */
-      // docsearch: {
-      //   appId: 'UU138HYSI8', 
-      //   apiKey: '5986cc8db764e39391c313913d6f52ad', 
-      //   indexName: 'plus-waveio', 
-      // },
+    /**
+      * 搜索 Algolia DocSearch
+      * @see https://theme-plume.vuejs.press/guide/features/content-search/
+      */
+     docsearch: {
+       appId: '1ORX5OLFYY', 
+       apiKey: '685d19d36b82f2575a5bdf0cc826663f', 
+       indexName: 'plume-pookie', 
+     },
     },
   }),
 })
