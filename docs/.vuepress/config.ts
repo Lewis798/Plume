@@ -52,7 +52,7 @@ export default defineUserConfig({
              theme: { light: 'vitesse-light', dark: 'vitesse-dark' },
              languages: [
              'sh', 'ts', 'md', 'html', 'js', 'go', 'kotlin', 'rust', 'vue', 'css', 'json',
-             'java', 'py', 'scss', 'yaml', 'bash', 'c+', 'ruby', 'make', 'obic', 'swift', 
+             'java', 'py', 'scss', 'yaml', 'bash', 'c++', 'ruby', 'make', 'obic', 'swift', 
              'php', 'rs', 'sql', 'xml', 'zig', 'pug', 'http', 'less', 'styl', 'jsx', 'tsx', 
              'astro', 'svelte', 'wasm', 'vb', 'bat', 'cs', 'cpp', 'mermaid'
              ],
