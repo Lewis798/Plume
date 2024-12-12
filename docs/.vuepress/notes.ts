@@ -38,20 +38,20 @@ export const notes = defineNotesConfig({
     //   },
    ]
   },
-  // {
-  //   dir: 'OpenGL',
-  //   link: '/opengl/',
-  //   sidebar: [
-  //     '',
-  //     {
-  //       dir: 'OpenGL',
-  //       text: 'OpenGL实验笔记',
-  //       icon: 'devicon:opengl',
-  //       collapsed: false,
-  //       items: 'auto',
-  //     },
-  //   ]
-  // },
+  {
+    dir: '计算机网络',
+    link: '/计算机网络/',
+    sidebar: [
+      '',
+      {
+        dir: '计算机网络',
+        text: 'OpenGL实验笔记',
+        icon: 'devicon:opengl',
+        collapsed: false,
+        items: 'auto',
+      },
+    ]
+  },
   // {
   //   dir: '3DV Course',
   //   link: '/3dv/',
