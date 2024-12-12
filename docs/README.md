@@ -10,7 +10,7 @@ config:
     hero:
       name: Lewis
       tagline: Back End Developer
-      text: 效法羲和驭天马，志在长空牧群星。
+      text: 我想过自己喜欢的生活，想要成为优秀的人，一个有主动权和自信的人。
       actions:
       - 
         text: 📑Blogs
