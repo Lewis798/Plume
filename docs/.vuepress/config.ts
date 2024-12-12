@@ -49,9 +49,14 @@ export default defineUserConfig({
        shiki: {
 
            // 强烈建议预设代码块高亮语言，插件默认加载所有语言会产生不必要的时间开销
-           theme: { light: 'vitesse-light', dark: 'vitesse-dark' },
-           languages: ["bash","makefile","python","cpp","javascript","html","c","c++"],
-       },
+             theme: { light: 'vitesse-light', dark: 'vitesse-dark' },
+             languages: [
+             'sh', 'ts', 'md', 'html', 'js', 'go', 'kotlin', 'rust', 'vue', 'css', 'json',
+             'java', 'py', 'scss', 'yaml', 'bash', 'c+', 'ruby', 'make', 'obic', 'swift', 
+             'php', 'rs', 'sql', 'xml', 'zig', 'pug', 'http', 'less', 'styl', 'jsx', 'tsx', 
+             'astro', 'svelte', 'wasm', 'vb', 'bat', 'cs', 'cpp', 'mermaid'
+             ],
+           },
 
       /**
        * markdown enhance
@@ -60,7 +65,7 @@ export default defineUserConfig({
       markdownEnhance: {
         demo: true,
          include: true,
-         chart: true,
+         chartjs: true,
          echarts: true,
          mermaid: true,
          flowchart: true,
