@@ -1,7 +1,8 @@
 ## ceshi
 
 ::: chartjs 块状图案例
-```json
+
+```charjs
 {
   "type": "bar",
   "data": {
@@ -39,4 +40,5 @@
   }
 }
 ```
+
 :::
