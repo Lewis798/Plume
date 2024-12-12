@@ -1,8 +1,8 @@
 ## ceshi
 
-::: chartjs 块状图案例
+::: chartjs 一个块状图案例
 
-```charjs
+```json
 {
   "type": "bar",
   "data": {
