@@ -65,7 +65,7 @@ export default defineUserConfig({
       markdownEnhance: {
         demo: true,
          include: true,
-         chartjs: true,
+         chart: true,
          echarts: true,
          mermaid: true,
          flowchart: true,
