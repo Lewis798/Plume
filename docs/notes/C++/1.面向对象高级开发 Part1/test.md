@@ -1,3 +1,8 @@
+---
+title: test
+createTime: 2024/12/12 23:13:17
+permalink: /cpp/4uivck78/
+---
 ## ceshi
 
 ::: chartjs 一个块状图案例
