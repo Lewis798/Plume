@@ -1,10 +1,9 @@
 ---
-title: 注意：本网站部署在 Github Pages 上，请科学上网！
+title: 注意：本网站部署在新加坡服务器上，如无法正常打开，请科学上网！
 createTime: 2024/12/07 23:44:28
 permalink: /article/e5enzmp0/
 ---
 
-**#** **注意：本网站部署在 Github Pages 上，请科学上网！**
+**#** **注意：本网站部署在新加坡服务器上，如无法正常打开，请科学上网！**
 上网的方式有很多种，比如使用==全局代理==、==使用 VPN==、==使用 Clash==、==使用 Surge== 等。
-
-本网站同时还部署在<icon name="devicon:netlify" /> Netlify 上，如果访问太卡，可以访问 Netlify 上的本网站：[https://plus-wave.netlify.app/](https://plus-wave.netlify.app/)。但是注意，网站==图床依然为 Github==，所以想要正常访问图片还是请==科学上网==😭<!-- more -->
+😭<!-- more -->
