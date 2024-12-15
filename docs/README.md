@@ -3,7 +3,7 @@ home: true
 config:
   - 
     type: banner
-    banner: /avatar/wallhaven-p963gj.jpg
+    banner: https://pookies-1314340089.cos.ap-singapore.myqcloud.com/imgs/logo.jpg
     bannerMask:
       light: 0.1
       dark: 0.3
