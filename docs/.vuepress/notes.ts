@@ -40,7 +40,7 @@ export const notes = defineNotesConfig({
   },
   {
     dir: 'Network',
-    link: '/计算机网络/',
+    link: '/Network/',
     sidebar: [
       '',
       {
