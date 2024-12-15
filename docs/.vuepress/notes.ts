@@ -39,12 +39,12 @@ export const notes = defineNotesConfig({
    ]
   },
   {
-    dir: '计算机网络',
+    dir: 'Network',
     link: '/计算机网络/',
     sidebar: [
       '',
       {
-        dir: '计算机网络',
+        dir: 'Network',
         text: 'OpenGL实验笔记',
         icon: 'devicon:opengl',
         collapsed: false,
