@@ -3,7 +3,7 @@ title: readme
 createTime: 2024/12/17 22:46:16
 permalink: /Tools-Skills/a1bzc3rq/
 ---
-[TOC]
+[[TOC]]
 
 ## Git的作用是什么？
 
