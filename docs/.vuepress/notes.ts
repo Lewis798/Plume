@@ -49,19 +49,19 @@ export const notes = defineNotesConfig({
       },
     ]
   },
-  // {
-  //   dir: '3DV Course',
-  //   link: '/3dv/',
-  //   sidebar: [
-  //     '',
-  //     {
-  //       dir: '3DV Course',
-  //       text: '3DV Course Notes',
-  //       icon: 'gis:cube-3d',
-  //       collapsed: false,
-  //       items: 'auto',
-  //     },
-  //   ]
-  // },
+  {
+    dir: 'Tools-Skills',
+    link: '/Tools-Skills/',
+    sidebar: [
+      '',
+      {
+        dir: 'Git',
+        text: 'Git',
+        icon: 'skill-icons:git',
+        collapsed: false,
+        items: 'auto',
+      },
+    ]
+  },
 ],
 })
