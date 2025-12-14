@@ -125,8 +125,8 @@ export default defineUserConfig({
       * @see https://theme-plume.vuejs.press/guide/features/content-search/
       */
      docsearch: {
-       appId: 'R3ZYE0XSDV', 
-       apiKey: 'ae5d16de553a9c067a3ad8f36b32e19d', 
+       appId: 'WMB6KUKW1M', 
+       apiKey: '7b91cb76e558db27dc4b4f48c12561c2', 
        indexName: 'plume', 
      },
     },
