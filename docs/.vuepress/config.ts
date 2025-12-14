@@ -18,7 +18,7 @@ export default defineUserConfig({
 
   theme: plumeTheme({
     // 添加您的部署域名
-    hostname: 'https://plume.pookie.top',
+    hostname: 'https://blog.sparknest.top',
     copyright: 'CC-BY-NC-SA-4.0',
     footer: { message: 'Plume Notes', copyright: 'Copyright © 2024-present leiws. All rights reserved.' },
     contributors: {
@@ -106,7 +106,7 @@ export default defineUserConfig({
        */
        comment: {
          provider: 'Waline', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
-         serverURL: 'https://waline.pookie.top/'
+         serverURL: 'https://waline.sparknest.top/'
       //   comment: true,
       //   repo: '',
       //   repoId: '',
